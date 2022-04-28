@@ -2,7 +2,7 @@
 
 # OBJETIVO:
   
-  * PETHELP é um site que tem como objetivo aproximar empresas ou automonos que oferecem serviços a animais ligando a pessoas que desejem algum tipo de seviço e cuidado para seu pet perto de si.
+  * PETHELP é um site que tem como objetivo aproximar empresas ou autônomos que oferecem serviços a animais ligando a pessoas que desejem algum tipo de seviço e cuidado para seu pet perto de si.
   
  # UTILIDADE:
   
