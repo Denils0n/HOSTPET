@@ -22,3 +22,4 @@
 [Gabriella Batista] (https://github.com/gabriellaBatista)
 [Joana] (https://github.com/Joana228)
 [Paloma] (https://github.com/PLuiza12)
+[Thierry Matheus] (https://github.com/thierrymatheus)
